@@ -2,6 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 import ListaCursos from './components/listaCursos';
 import Footer from './components/footer';
+import React from 'react'
 function App() {
   return (
     <div className="App">
